@@ -6,11 +6,11 @@ This repository contains an overview of my academic and personal projects in Com
 
 * **AI-01 Genetic Algorithm Password Cracker**
   Uses a genetic algorithm to guess a 32-bit passcode.
-  Repository: https://github.com/YOUR_USERNAME/ai-01-genetic-algorithm-password-cracker
+  Repository: https://github.com/M7md-oth/ai-01-genetic-algorithm-password-cracker
 
 * **AI-02 News Headline Classification**
   Machine learning project that classifies news headlines using Logistic Regression and Decision Trees.
-  Repository: https://github.com/YOUR_USERNAME/ai-02-news-headline-classification
+  Repository: https://github.com/M7md-oth/ai-02-news-headline-classification
 
 ---
 
